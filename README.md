@@ -27,3 +27,11 @@ Adding GitHub Packages source to use private packages:
 dotnet nuget add source --username <<YOUR-GITHUB-USERNAME>> --password <<YOUR-PAT>> --store-password-in-clear-text --name github "https://nuget.pkg.github.com/<<YOUR-GITHUB-USERNAME>>/index.json"
 ```
 
+## Contributors
+
+| [<img src="https://github.com/wilsonneto-dev.png" width="75px;"/>][1] |
+| :-: |
+|[Wilson Neto][1]|
+
+
+[1]: https://wilsonneto.com.br
