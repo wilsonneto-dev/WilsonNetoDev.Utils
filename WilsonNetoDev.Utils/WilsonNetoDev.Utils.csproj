@@ -12,7 +12,7 @@
 		<PackageReleaseNotes>New features</PackageReleaseNotes>
 		<PackageId>WilsonNetoDev.Utils</PackageId>
 		<PackageTags>array, utils, single number</PackageTags>
-		<Version>1.0.1</Version>
+		<Version>1.0.2</Version>
 
   </PropertyGroup>
 
