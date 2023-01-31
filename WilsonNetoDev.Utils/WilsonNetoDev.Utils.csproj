@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<Title>WilsonNetoDev.Utils</Title>
+		<Authors>Wilson Neto e Inscritos</Authors>
+		<Description>A simple package with some utils</Description>
+		<PackageReleaseNotes>New features</PackageReleaseNotes>
+		<PackageId>WilsonNetoDev.Utils</PackageId>
+		<PackageTags>array, utils, single number</PackageTags>
+		<Version>1.0.1</Version>
+
+  </PropertyGroup>
+
+</Project>
