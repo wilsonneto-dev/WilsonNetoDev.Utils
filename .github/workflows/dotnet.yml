@@ -23,6 +23,8 @@ jobs:
       run: dotnet test --no-build --verbosity normal
     - name: Move to folder
       run: cd ./WilsonNetoDev.Utils/
+    - name: Generate Release
+      run: dotnet build -c release
     - name: Generate Package
       run: dotnet pack -c release -o ./dist/
     - name: Publish Package
