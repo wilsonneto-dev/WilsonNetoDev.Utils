@@ -22,7 +22,7 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
     - name: Move to folder
-      run: cd .\WilsonNetoDev.Utils\
+      run: cd ./WilsonNetoDev.Utils/
     - name: Generate Package
       run: dotnet pack -c release -o ./dist/
     - name: Publish Package
